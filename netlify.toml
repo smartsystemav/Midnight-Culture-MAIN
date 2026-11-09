@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://www.mc-band.co.uk/"
+  status = 301
+  force = true
